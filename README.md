@@ -81,7 +81,7 @@ Get started effortlessly by cloning or downloading the repo. Then, simply link t
     });
 </script>
 
-```html
+```
 
 <h1>hello there</h1>
 
