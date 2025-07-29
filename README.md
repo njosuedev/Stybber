@@ -25,7 +25,15 @@
 ## 🛠 Installation
 
 Get started effortlessly by cloning or downloading the repo. Then, simply link the CSS and JavaScript files in your project:
+```html
+<!-- Stybber CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/njosuedev/stybber@latest/stybber.min.css" />
 
+<!-- Stybber JavaScript (optional) -->
+<script src="https://cdn.jsdelivr.net/gh/njosuedev/stybber@latest/stybber.min.js"></script>
+
+```
+## Usage Examples
 ```html
 <link rel="stylesheet" href="css/main.css" />
 <script src="js/main.js" type="module" defer></script>
