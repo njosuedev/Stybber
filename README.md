@@ -83,7 +83,7 @@ Get started effortlessly by cloning or downloading the repo. Then, simply link t
 
 ---
 
-📫 Stay Connected
+## 📫 Stay Connected
 Stybber CSS Framework — A lightweight, responsive, and accessible UI toolkit.
 Questions? Feedback? Reach out anytime: contact@njosuedev.com
 
