@@ -1,38 +1,59 @@
-# Website
+# 🌟 Stybber CSS Framework
 
-This website is built using [Docusaurus](https://njosuedev.github.io/stybber/), a modern static website generator.
+**Stybber** is a lightweight, modern, and responsive CSS framework that helps you build beautiful and fast websites with minimal setup.
 
-## Installation
+🔗 **Live Demo & Docs**: [https://njosuedev.github.io/stybber](https://njosuedev.github.io/stybber)
+
+---
+
+## 📦 CDN Installation
+
+Just include the CDN links in your HTML file — no build tools required.
 
 ```html
- <!-- Stybber CSS -->
+<!-- Stybber CSS -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/njosuedev/stybber@latest/dist/stybber.main.css" />
-<!-- Stybber JavaScript (optional) -->
+
+<!-- Optional: Stybber JS (for interactive components) -->
 <script src="https://cdn.jsdelivr.net/gh/njosuedev/stybber@latest/dist/stybber.main.js"></script>
+
 ```
+💡 Usage Example
+```html
+<button class="btn-primary">Click Me</button>
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-## Build
-
-```bash
-yarn build
+<div class="card shadow p-4 text-center">
+  <h2 class="text-xl font-bold">Hello Stybber</h2>
+  <p class="text-gray-600">A simple, beautiful CSS framework.</p>
+</div>
 ```
+## ✨ Features
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+✅ Utility-first CSS classes  
+✅ Pre-built responsive components  
+✅ Mobile-first design  
+✅ Works with or without JavaScript  
+✅ Easy to use via CDN
+📚 Documentation
+Visit the documentation for full usage, component demos, and class references:
 
-## Deployment
+👉 https://njosuedev.github.io/stybber
 
-Using SSH:
+🤝 Contributing
+We welcome contributions!
+To contribute:
 
-```bash
-USE_SSH=true yarn deploy
-```
+1. Fork this repository
 
-Not using SSH:
+2. Create a new branch
 
-```bash
-GIT_USER=<Your GitHub username> yarn deploy
-```
+3. Commit your changes
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+4. Open a pull request
+
+GitHub Repo: https://github.com/njosuedev/stybber
+
+## 🛠 License
+
+Licensed under the [MIT License](LICENSE)  
+© N Josue Dev
