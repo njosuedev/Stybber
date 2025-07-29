@@ -30,6 +30,7 @@ Get started effortlessly by cloning or downloading the repo. Then, simply link t
 <link rel="stylesheet" href="css/main.css" />
 <script src="js/main.js" type="module" defer></script>
 
+
 <!-- Button -->
 
 <button class="btn btn-primary">Primary Button</button>
@@ -82,17 +83,15 @@ Get started effortlessly by cloning or downloading the repo. Then, simply link t
 
 ---
 
-## 📫 Stay Connected
+📫 Stay Connected
+Stybber CSS Framework — A lightweight, responsive, and accessible UI toolkit.
+Questions? Feedback? Reach out anytime: contact@njosuedev.com
 
-**Stybber CSS Framework** — A lightweight, responsive, and accessible UI toolkit.  
-Questions? Feedback? Reach out anytime: [contact@njosuedev.com](mailto:contact@njosuedev.com)
+Explore More on GitHub |
+Report Issues |
+Contribute
 
-[Explore More on GitHub](https://github.com/njosuedev/stybber) |  
-[Report Issues](https://github.com/njosuedev/stybber/issues) |  
-[Contribute](https://github.com/njosuedev/stybber/blob/main/CONTRIBUTING.md)
-
----
-
-© 2025 NIYOMWUNGERI Josue. All rights reserved.  
+© 2025 NIYOMWUNGERI Josue. All rights reserved.
 Made with ❤️ and passion for clean code.
+
 
