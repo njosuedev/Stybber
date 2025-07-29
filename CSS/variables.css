@@ -1,0 +1,9 @@
+/* variables.css */
+:root {
+  --primary: #007bff;
+  --secondary: #6c757d;
+  --success: #28a745;
+  --danger: #dc3545;
+  --font-main: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  --base-spacing: 1rem;
+}

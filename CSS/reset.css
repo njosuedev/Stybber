@@ -1,0 +1,16 @@
+/* reset.css */
+/* A simple CSS reset */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-main);
+  line-height: 1.5;
+  background-color: #fff;
+  color: #333;
+}
