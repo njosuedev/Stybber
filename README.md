@@ -34,24 +34,25 @@ Get started effortlessly by cloning or downloading the repo. Then, simply link t
 
 ```
 ## Usage Examples
+ 
+## Button
 ```html
-<link rel="stylesheet" href="css/main.css" />
-<script src="js/main.js" type="module" defer></script>
-
-
 <!-- Button -->
-
 <button class="btn btn-primary">Primary Button</button>
 <button class="btn btn-secondary">Secondary Button</button>
 
+```
+## Card
+```html
 <!-- Card -->
-
 <div class="card">
   <h2>Card Title</h2>
   <p>This is a card component, perfect for content blocks.</p>
 </div>
+```
+## Modal
+```html
 <!-- Modal -->
-
 <button id="openModalBtn" class="btn btn-primary">Open Modal</button>
 
 <div id="myModal" class="modal" role="dialog" aria-modal="true" aria-hidden="true" tabindex="-1">
@@ -61,9 +62,10 @@ Get started effortlessly by cloning or downloading the repo. Then, simply link t
     <p>Modal content goes here.</p>
   </div>
 </div>
-
+```
+## Accordion
+```html
 <!-- Accordion -->
-
  <div class="accordion" role="region">
   <div class="accordion-item">
     <div class="accordion-header" tabindex="0" aria-expanded="false">Section 1</div>
@@ -78,17 +80,6 @@ Get started effortlessly by cloning or downloading the repo. Then, simply link t
     </div>
   </div>
 </div>
-
-<script>
-    import { Modal } from './components/modal.js';
-    import { Accordion } from './components/accordion.js';
-
-    document.addEventListener('DOMContentLoaded', () => {
-    new Modal('#myModal', '#openModalBtn', '#closeModalBtn');
-    new Accordion('.accordion');
-    });
-</script>
-
 ```
 
 ## 📫 Stay Connected
