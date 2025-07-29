@@ -87,7 +87,7 @@ Get started effortlessly by cloning or downloading the repo. Then, simply link t
 **Stybber CSS Framework** — A modern, lightweight, and responsive UI toolkit designed for simplicity, accessibility, and developer productivity.
 
 Have questions, suggestions, or feedback? We’d love to hear from you.  
-📬 Reach out: [contact@njosuedev.com](mailto:contact@njosuedev.com)
+📬 Reach out: [Email](mailto:writetounity@gmail.com)
 
 🔗 **Useful Links**  
 - [🌐 Explore on GitHub »](https://github.com/njosuedev/stybber)  
