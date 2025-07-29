@@ -94,4 +94,11 @@ Contribute
 © 2025 NIYOMWUNGERI Josue. All rights reserved.
 Made with ❤️ and passion for clean code.
 
+---
+
+## 🛠 Installation 12
+
+Get started effortlessly by cloning or downloading the repo. Then, simply link the CSS and JavaScript files in your project:
+
+```html
 
