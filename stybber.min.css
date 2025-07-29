@@ -1,9 +1,9 @@
 /* main.css */
-@import './variables.css';
-@import './reset.css';
-@import './utilities.css';
-@import './components.css';
-@import './responsive.css';
+@import '/CSS/variables.css';
+@import '/CSS/reset.css';
+@import '/CSS/utilities.css';
+@import '/CSS/components.css';
+@import '/CSS/responsive.css';
 
 
 /* 1. Define global variables */
