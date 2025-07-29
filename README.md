@@ -27,10 +27,9 @@
 Get started effortlessly by cloning or downloading the repo. Then, simply link the CSS and JavaScript files in your project:
 ```html
 <!-- Stybber CSS -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/njosuedev/stybber@latest/stybber.min.css" />
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/njosuedev/stybber@latest/dist/stybber.main.css" />
 <!-- Stybber JavaScript (optional) -->
-<script src="https://cdn.jsdelivr.net/gh/njosuedev/stybber@latest/stybber.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/njosuedev/stybber@latest/dist/stybber.main.js"></script>
 
 ```
 ## Usage Examples
