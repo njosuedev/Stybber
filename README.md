@@ -80,32 +80,19 @@ Get started effortlessly by cloning or downloading the repo. Then, simply link t
     });
 </script>
 
-<footer class="footer bg-primary text-white p-6 mt-12" style="text-align: center; font-size: 0.9rem;">
-  <div class="container" style="max-width: 960px; margin: 0 auto; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
-    
-    <div class="footer-info" style="flex: 1 1 300px; margin-bottom: 1rem;">
-      <strong>Stybber CSS Framework</strong><br />
-      Lightweight, responsive & accessible UI toolkit.<br />
-      <a href="mailto:contact@njosuedev.com" style="color: #ffd700; text-decoration: underline;">contact@njosuedev.com</a>
-    </div>
-    
-    <nav class="footer-links" style="flex: 1 1 200px; margin-bottom: 1rem;">
-      <a href="#features" style="color: white; margin: 0 0.75rem;">Features</a>
-      <a href="#installation" style="color: white; margin: 0 0.75rem;">Installation</a>
-      <a href="#usage-examples" style="color: white; margin: 0 0.75rem;">Usage</a>
-      <a href="https://github.com/njosuedev/stybber" target="_blank" style="color: white; margin: 0 0.75rem;">GitHub</a>
-    </nav>
+---
 
-    <div class="footer-social" style="flex: 1 1 200px;">
-      <!-- Replace # with your actual social links -->
-      <a href="#" aria-label="Twitter" style="color: white; margin: 0 0.5rem; font-size: 1.2rem;">🐦</a>
-      <a href="#" aria-label="GitHub" style="color: white; margin: 0 0.5rem; font-size: 1.2rem;">🐙</a>
-      <a href="#" aria-label="LinkedIn" style="color: white; margin: 0 0.5rem; font-size: 1.2rem;">🔗</a>
-    </div>
-  </div>
+## 📫 Stay Connected
 
-  <div class="footer-copy" style="margin-top: 1rem; font-size: 0.8rem; color: #ddd;">
-    &copy; 2025 N Josue Dev. All rights reserved.
-  </div>
-</footer>
+**Stybber CSS Framework** — A lightweight, responsive, and accessible UI toolkit.  
+Questions? Feedback? Reach out anytime: [contact@njosuedev.com](mailto:contact@njosuedev.com)
+
+[Explore More on GitHub](https://github.com/njosuedev/stybber) |  
+[Report Issues](https://github.com/njosuedev/stybber/issues) |  
+[Contribute](https://github.com/njosuedev/stybber/blob/main/CONTRIBUTING.md)
+
+---
+
+© 2025 NIYOMWUNGERI Josue. All rights reserved.  
+Made with ❤️ and passion for clean code.
 
