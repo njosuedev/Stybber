@@ -1,17 +1,14 @@
 # Website
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+This website is built using [Docusaurus](https://njosuedev.github.io/stybber/), a modern static website generator.
 
 ## Installation
 
-```bash
-yarn
-```
-
-## Local Development
-
-```bash
-yarn start
+```html
+ <!-- Stybber CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/njosuedev/stybber@latest/dist/stybber.main.css" />
+<!-- Stybber JavaScript (optional) -->
+<script src="https://cdn.jsdelivr.net/gh/njosuedev/stybber@latest/dist/stybber.main.js"></script>
 ```
 
 This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
