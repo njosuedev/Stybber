@@ -85,17 +85,20 @@ Get started effortlessly by cloning or downloading the repo. Then, simply link t
 
 ## 📫 Stay Connected
 
-**Stybber CSS Framework** — A lightweight, responsive, and accessible UI toolkit.  
-Questions? Feedback? Reach out anytime: [contact@njosuedev.com](mailto:contact@njosuedev.com)
+**Stybber CSS Framework** — A modern, lightweight, and responsive UI toolkit designed for simplicity, accessibility, and developer productivity.
 
-[Explore More on GitHub](https://github.com/njosuedev/stybber) |  
-[Report Issues](https://github.com/njosuedev/stybber/issues) |  
-[Contribute](https://github.com/njosuedev/stybber/blob/main/CONTRIBUTING.md)
+Have questions, suggestions, or feedback? We’d love to hear from you.  
+📬 Reach out: [contact@njosuedev.com](mailto:contact@njosuedev.com)
+
+🔗 **Useful Links**  
+- [🌐 Explore on GitHub »](https://github.com/njosuedev/stybber)  
+- [🐞 Report an Issue »](https://github.com/njosuedev/stybber/issues)  
+- [🤝 Contribute »](https://github.com/njosuedev/stybber/blob/main/CONTRIBUTING.md)
 
 ---
 
-© 2025 NIYOMWUNGERI Josue. All rights reserved.  
-Made with ❤️ and passion for clean code.
+© 2025 **NIYOMWUNGERI Josue**. All rights reserved.  
+Made with ❤️, curiosity, and a deep love for clean, maintainable code.
 
 
 
