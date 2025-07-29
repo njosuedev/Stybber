@@ -82,20 +82,14 @@ Get started effortlessly by cloning or downloading the repo. Then, simply link t
 </script>
 
 ---
+<h1>
+    Hello the
+</h1>
 
-## 📫 Stay Connected
 
-**Stybber CSS Framework** — A lightweight, responsive, and accessible UI toolkit.  
-Questions? Feedback? Reach out anytime: [contact@njosuedev.com](mailto:contact@njosuedev.com)
 
-[Explore More on GitHub](https://github.com/njosuedev/stybber) |  
-[Report Issues](https://github.com/njosuedev/stybber/issues) |  
-[Contribute](https://github.com/njosuedev/stybber/blob/main/CONTRIBUTING.md)
 
----
 
-© 2025 NIYOMWUNGERI Josue. All rights reserved.  
-Made with ❤️ and passion for clean code.
 
 
 
