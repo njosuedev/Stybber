@@ -1,36 +1,41 @@
-# Stybber CSS Framework Documentation
+# Website
 
-Welcome to the official documentation for **Stybber** — a lightweight, modern CSS and JavaScript framework designed to build fast, responsive, and beautiful UIs.
+This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
----
+## Installation
 
-## Table of Contents
+```bash
+yarn
+```
 
-- [Introduction](#introduction)
-- [CDN Usage](#cdn-usage)
-- [Local Installation](#local-installation)
-- [Basic Usage](#basic-usage)
-- [Components](#components)
-- [Customization](#customization)
-- [Contributing](#contributing)
+## Local Development
 
----
+```bash
+yarn start
+```
 
-## Introduction
+This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
-Stybber is built by **NIYOMWUNERI Josue (Higoverse Engineer)**. It provides essential CSS and JS utilities to make frontend development faster and easier.
+## Build
 
----
+```bash
+yarn build
+```
 
-## CDN Usage
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
-Include the CSS and JS files directly from the CDN in your HTML:
+## Deployment
 
-```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/njosuedev/stybber@v1.0.0/dist/stybber.main.css" />
-<script src="https://cdn.jsdelivr.net/gh/njosuedev/stybber@v1.0.0/dist/stybber.main.js"></script>
+Using SSH:
 
+```bash
+USE_SSH=true yarn deploy
+```
 
-git clone https://github.com/njosuedev/stybber.git
-cd stybber
+Not using SSH:
 
+```bash
+GIT_USER=<Your GitHub username> yarn deploy
+```
+
+If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
