@@ -56,4 +56,4 @@ GitHub Repo: https://github.com/njosuedev/stybber
 ## 🛠 License
 
 Licensed under the [MIT License](LICENSE)  
-© NIYOMWUNGERI Josue
+© NIYOMWUNGERI Josue.
