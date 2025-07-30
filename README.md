@@ -1,5 +1,8 @@
-# <img src="https://higoverseserver.vercel.app/assets/Stybber.png" alt="Stybber CSS Logo" width="180" />  
-**Stybber CSS Framework**
+<p align="center">
+  <img src="https://higoverseserver.vercel.app/assets/Stybber.png" alt="Stybber CSS Logo" width="200" />
+</p>
+
+<h1 align="center">Stybber CSS Framework</h1>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
 [![Version](https://img.shields.io/badge/version-1.0.1-red)]()
