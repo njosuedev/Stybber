@@ -1,4 +1,5 @@
-# Stybber CSS Framework
+# <img src="https://higoverseserver.vercel.app/assets/Stybber.png" alt="Stybber CSS Logo" width="180" />  
+**Stybber CSS Framework**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
 [![Version](https://img.shields.io/badge/version-1.0.1-red)]()
@@ -25,13 +26,13 @@
 ## 🛠 Installation
 
 Get started effortlessly by cloning or downloading the repo. Then, simply link the CSS and JavaScript files in your project:
+
 ```html
 <!-- Stybber CSS -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/njosuedev/stybber@latest/dist/stybber.main.css" />
 <!-- Stybber JavaScript (optional) -->
 <script src="https://cdn.jsdelivr.net/gh/njosuedev/stybber@latest/dist/stybber.main.js"></script>
 
-```
 ## Usage Examples
  
 ## Button
