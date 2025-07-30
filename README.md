@@ -2,7 +2,7 @@
   <img src="https://higoverseserver.vercel.app/assets/Stybber.png" alt="Stybber CSS Logo" width="200" />
 </p>
 
-<h1 align="center">Stybber CSS Framework</h1>
+<p align="center">A utility-first CSS framework for rapidly building custom user interfaces.</p>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
 [![Version](https://img.shields.io/badge/version-1.0.1-red)]()
