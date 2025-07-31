@@ -4,8 +4,7 @@
 
 **Stybber** is a sleek, lightweight, and highly customizable CSS framework crafted for developers and designers who want to build modern, accessible, and responsive web interfaces — quickly, efficiently, and without bloat.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
-[![Version](https://img.shields.io/badge/version-1.0.1-red)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  [![Version](https://img.shields.io/badge/version-1.0.1-red)]()
 
 ---
 
@@ -14,7 +13,7 @@
 **Stybber CSS Framework** — A modern, lightweight, and responsive UI toolkit designed for simplicity, accessibility, and developer productivity.
 
 Have questions, suggestions, or feedback? We’d love to hear from you.  
-📬 Reach out: [Email](mailto:writetounity@gmail.com)
+📬 Reach out: [Email](mailto:writetounity@gmail.com) | Phone: +250 788 123 456
 
 🔗 **Useful Links**  
 - [🌐 Explore on GitHub »](https://github.com/njosuedev/stybber)  
