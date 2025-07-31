@@ -2,11 +2,16 @@
   "name": "stybber",
   "version": "1.0.0",
   "description": "A lightweight CSS and JS framework for responsive and modern UI.",
-  "main": "dist/stybber.main.js",
-  "style": "dist/stybber.main.css",
+  "main": "index.js",
+  "scripts": {
+    "build:js": "esbuild src/js/stybber.js --bundle --minify --outfile=dist/stybber.min.js",
+    "build:css": "postcss src/css/stybber.css -o dist/stybber.min.css",
+    "build": "npm run build:css && npm run build:js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/njosuedev/stybber"
+    "url": "git+https://github.com/njosuedev/stybber.git"
   },
   "keywords": [
     "css",
@@ -16,5 +21,16 @@
     "stybber"
   ],
   "author": "NIYOMWUNGERI Josue",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/njosuedev/stybber/issues"
+  },
+  "homepage": "https://github.com/njosuedev/stybber#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "cssnano": "^5.1.15",
+    "esbuild": "^0.17.19",
+    "postcss": "^8.5.6",
+    "postcss-cli": "^10.1.0"
+  }
 }
