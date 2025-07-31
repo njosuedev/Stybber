@@ -13,7 +13,7 @@
 **Stybber CSS Framework** — A modern, lightweight, and responsive UI toolkit designed for simplicity, accessibility, and developer productivity.
 
 Have questions, suggestions, or feedback? We’d love to hear from you.  
-📬 Reach out: [Email](mailto:writetounity@gmail.com) | Phone: +250 788 123 456
+📬 Reach out: [Email](mailto:njosuedev@gmail.com) | Phone: +250 790 206 517
 
 🔗 **Useful Links**  
 - [🌐 Explore on GitHub »](https://github.com/njosuedev/stybber)  
