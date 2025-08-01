@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "stybber",
   "version": "1.0.0",
   "description": "A lightweight CSS and JS framework for responsive and modern UI.",
