@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://stybber-docs.vercel.app/">Documentation</a>
+  <a href="https://doc-stybber.vercel.app/">Documentation</a>
   ·
-  <a href="#">Demo</a>
+  <a href="aandtconsultantsltd.vercel.app">Demo</a>
   ·
   <a href="#">GitHub</a>
 </p>
@@ -20,6 +20,6 @@
 ### CDN
 
 ```html
-<link rel="stylesheet" href="dist/stybber.min.css" />
-<script src="dist/stybber.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/njosuedev/stybber@latest/stybber.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/njosuedev/stybber@latest/stybber.min.js"></script>
 ```
