@@ -6,6 +6,9 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# demo
+index.html
+
 # OS files
 .DS_Store
 Thumbs.db
