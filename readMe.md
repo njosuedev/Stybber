@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://higoverseserver.vercel.app/assets/Stybber.png" width="120" alt="Stybber Logo" />
 </p>
-
-<h1 align="center">Stybber</h1>
-
 <p align="center">
   A lightweight, responsive CSS and JS framework for building modern, fast, and beautiful UIs.
 </p>
