@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://doc-stybber.vercel.app/">Documentation</a>
   ·
-  <a href="aandtconsultantsltd.vercel.app">Demo</a>
+  <a href="https://aandtconsultantsltd.vercel.app">Demo</a>
   ·
   <a href="#">GitHub</a>
 </p>
